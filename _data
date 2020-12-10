@@ -1,3 +1,0 @@
-
-git rm _data.txt
-git commit -m "remove _data.txt
