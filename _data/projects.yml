@@ -55,9 +55,7 @@
       
       **Contributions:**
       
-      - Developed a visual live graph after analyzing the total number of connections in LinkedIn as per their demographics.  
-
-
+      - Developed a visual live graph after analyzing the total number of connections in LinkedIn as per their demographics.
 - layout: top-middle
   name: Voice Translator Bot | March 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -70,7 +68,7 @@
       
       - Developed a bot which accepts voice commands and translate speech into text.
       
-   - layout: top-middle
+  -layout: top-middle
   name: Housing Market Predictor | February 2020 - March 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -82,7 +80,7 @@
       
       - Developed a system which used the California Census data 1990 to predict house sale prices in the Bay area with respect to proximity to the ocean by using Machine Learning algorithm, Linear Regression, Decision tree algorithms and Ridge Regression in Python using Numpy and Matplotlib for data visualization according to the population, dimension of houses, etc.
       
-    - layout: top-middle
+  - layout: top-middle
   name: United Airlines - System Analysis | January 2020 - March 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
