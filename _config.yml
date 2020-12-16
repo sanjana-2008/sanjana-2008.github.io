@@ -1,3 +1,10 @@
+# Site
+#repository: sanjana-2008/sanjana-2008.github.io
+#favicon: images/favicon.ico
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
 
 more_content: | # this will include new lines to allow paragraphs
    - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
