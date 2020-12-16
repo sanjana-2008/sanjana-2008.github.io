@@ -5,6 +5,12 @@
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  - Hi, I am Sanjana Kulshrestha.
+  - Currently pursuing Master of Science in Computer Information Systems (Data Analytics) from DePaul Univetrsity, Chicago and will be graduating in June 2021.
+
+  - I am an experienced professional with having 3.5+ years in software development and Data Analytics. Skilled in Python, SQL, Tableau, Machine Learning, and Databases. 
+  - I am looking for a Full-time Data Analyst / Data Scientist / Business Intelligence opportunity.
 
 more_content: | # this will include new lines to allow paragraphs
    - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
