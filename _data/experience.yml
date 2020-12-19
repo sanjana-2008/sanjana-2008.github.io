@@ -49,7 +49,7 @@
   company: Project Work Groups 
 
   
-  job_title: Global Program Lead and Data Scientist 
+  job_title: Data Scientist 
   dates: June 2020- August 2020
   #quote: >
   # Short description of the company (optional)
@@ -66,26 +66,78 @@
      
 # Experience template
 - layout: left
-  company: Project Work Groups 
+  company: KPMG 
 
   
-  job_title: Global Program Lead and Data Scientist 
-  dates: June 2020- August 2020
+  job_title: Data Analyst consultant intern 
+  dates: May 2020- June 2020
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
   
      **Responsibilities**
      
-     - Led IT projects of 24 diverse people teams, collaborated with UX, Marketing and Data Science teams and developed user-focused visuals and dashboards which improved customer foot traffic of website.     
-     - Project: “Artificial Intelligence on Rural”, did data mining and data management of 40 years of demographics data size 100k using Python, created visuals for country-wise model dashboard using Tableau categorically (health, transport, water and agriculture).
-     - Achievement: Featured in PWG Women Leadership Newsletter 2020. 
-     - Achievement: Titled as “Young Leaders Shadow Board of Directors, under 25” program under ages of Harvard Business Review 
-     - Achievement: Nominated and attended the United Nations Global Compact Summit 2020
-     - Achievement: Received weekly best performance award badges from Manager.
+     - Performed data quality assurance, modeled 360,000 accounting data by defining schemas using SQL, assessed data quality as per data governance, created dashboard for stakeholder and documented business improvement strategies using PowerPoint.
+# Experience template
+- layout: left
+  company: Hash Analytics  
+
+  
+  job_title: Data Analyst intern
+  dates: April 2020- June 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
      
+     - Performed qualitative and quantitative analysis using Numpy, Panda, A/B hypothesis testing to present the KPIs on a complex data sets, followed by data visualization using Matplotlib and Tableau| https://public.tableau.com/profile/  sanjana2505#!/
+# Experience template
+- layout: left
+  company: Embassy of India Student Hub 
 
+  
+  job_title: Volunteer 
+  dates: April 2020- August 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Data mining, data modeling, ETL into visuals using Tableau, designed the database and reported the KPIs in the data storytelling.     
+# Experience template
+- layout: left
+  company: IBM 
 
+  
+  job_title: IT Analyst
+  dates: January 2018 - June 2019
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Automation development in Python for Insurance industry clients | Built metrics dashboard and ad hoc reports.     
+     - Conducted system metrics analysis by data mining, transformed over 2 Million of mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+     - Achievement: Certified as Big Data Expert 
+     - Achievement: Winner of IBM Master the Mainframe competition played at global level.
+
+# Experience template
+- layout: left
+  company: TATA Tele Services
+
+  
+  job_title: Java Intern
+  dates: June 2016 - August 2016
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     -  Developed “Authentication Based Face Recognition” using Eigenfaces algorithm on Java Server Pages for image processing.
 
 
 
