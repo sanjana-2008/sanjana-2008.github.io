@@ -8,7 +8,7 @@
     
       
       
-      **Contributions:**
+      
        
        - Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
 - layout: top-middle
@@ -18,7 +18,7 @@
   quote: >
      
   
-  description: | # this will include new lines to allow paragraphs
+  
       
       
        
@@ -29,9 +29,9 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
      
-  description: | # this will include new lines to allow paragraphs
+  
       
-      **Contributions:**
+      
        
        - Performed a time series decomposition of retail store and customer data, analyze customer behavior and trends, accessed the Hadoop data in JSON, did data profiling using SPSS, created a dashboard using Elastic Search, Logstash and Kibana (ELK) and a report with KPIs for marketing strategies which increased the customer churn rate by 23%.
 - layout: top-middle
