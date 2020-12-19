@@ -10,7 +10,7 @@
       
       **Contributions:**
        
-      Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
+       - Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
 - layout: top-middle
   name: Titanic Survival Predictor | April 2020 - June 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -24,7 +24,7 @@
        
        - Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
        - layout: top-middle
-  name: Customer analytics of Supermarket | August 2018 - November 2018
+  name: Time Series Decomposition of Supermarket | August 2018 - November 2018
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -36,6 +36,18 @@
        - Performed a time series decomposition of retail store and customer data, analyze customer behavior and trends, accessed the Hadoop data in JSON, did data profiling using SPSS, created a dashboard using Elastic Search, Logstash and Kibana (ELK) and a report with KPIs for marketing strategies which increased the customer churn rate by 23%.
 - layout: top-middle
   name: System metrics analysis   | February 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+      
+      **Contributions:**
+       
+       - Conducted system metrics analysis by data mining, transformed over 2 Million of mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+
+- layout: top-middle
+  name: Housing Market Predictor model   | January 2019 - March 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
