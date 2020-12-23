@@ -10,7 +10,7 @@
       
       
        
-       - Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
+- Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
 - layout: top-middle
   name: Titanic Survival Predictor | April 2020 - June 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -22,8 +22,8 @@
       
       
        
-       - Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
-       - layout: top-middle
+     - Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
+     - layout: top-middle
   name: Time Series Decomposition of Supermarket | August 2018 - November 2018
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
