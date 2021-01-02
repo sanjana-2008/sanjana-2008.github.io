@@ -1,11 +1,11 @@
 # Project template
 
 - layout: top-middle
-  name: Customer Behavioral Analytics for Retail Store | Feb 2020
+  name: Recipe Predictor using Deep Convolutional Neural Networks | November 2020 - December 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-    A customer behavior analysis is a qualitative and quantitative observation of how customers interact with your company. Customers are first segmented into groups based on common grounds and then observed at different stages to analyze how the personas interact with your company.
+    Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN
     
   description: | # this will include new lines to allow paragraphs
