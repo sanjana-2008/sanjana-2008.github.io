@@ -112,7 +112,7 @@
   company: IBM 
 
   
-  job_title: IT Analyst
+  job_title: Service Delivery Specialist 
   dates: January 2018 - June 2019
   #quote: >
   # Short description of the company (optional)
@@ -120,12 +120,14 @@
   
      **Responsibilities**
      
-     - Automation development in Python for Insurance industry clients. 
-     - Built system metrics dashboard and ad hoc reports.
-     - Conducted system metrics analysis by data mining, transformed over 2 Million of mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
-     - Achievement: Certified as Big Data Expert 
+     - Software development in Python for Insurance industry clients.
+     - Developed a model after analysis of system’s workload, reported the behavior of mainframe system and workloads interactions. 
+     - Gather the data, cleaned it, and the predicted the time for planning a schedule for upgrading your z Systems and capacity planning.  
+     - Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+     - Achievement: Certified as Big Data Expert
      - Achievement: Winner of IBM Master the Mainframe competition played at global level.
-
+ 
+     
 # Experience template
 - layout: left
   company: TATA Tele Services
