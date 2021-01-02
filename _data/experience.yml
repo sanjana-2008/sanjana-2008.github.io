@@ -1,8 +1,22 @@
 # Experience template
 - layout: left
-  company: Illinois Institute of Technology
-  link: https://www.iit.edu/
-  job_title: Graduate Teaching Assistant
+  company: DePaul University 
+  job_title: Program Coordinator
+  dates:  October 2019- Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+   
+       - Increased the enrollments by 12%: Handle multiple projects, conducts market segmentation analysis and visualize the Excel student data to create quarter wise report with KPIs and strategies and apply decision driven practices with marketing team. 
+       - Data Preprocessing, wrangling the data using ETL(Extraction, Transformation, and Loading) with the help of Microsoft Excel, Vlookups, Pivot tables, VBA and analyzes the data.
+       - Generates reports and surveys both using Statistics Table visualization using Qualtrics.
+       - Develops the tables, visuals and charts from the raw data using Tableau and Microsoft Excel for data storytelling in the Final Quater Reports.
+       - Serve as an Advisor and assist students and guide them related to the academic programs offered during open office advising hours.
+       - Working as a Teaching Assistant in the University Internship Program courses.
+       
+
 # Experience template
 - layout: left
   company: DePaul University 
@@ -30,7 +44,7 @@
        
         -  I gained experience by working in a team with the country's most talented students. Together, we worked on a civic tech challenge by giving our best ideas on how to improve efficiency and lower commute times by prompting public transit and high capacity models.
         - Achievement: I was selected as 1 of the 200 top college students from across the U.S from STEM to participate in the ThinkChicago Ideas Week.
-        - Achievement: Got featured in the official ThinkChicago Chicago Ideas 2020 resume book.
+        - Achievement: Got featured in the official ThinkChicago Chicago Ideas 2020 Resume Book.
 
 
 
@@ -47,8 +61,8 @@
   
      **Responsibilities**
      
-     - Led IT projects of 24 diverse people teams, collaborated with UX, Marketing and Data Science teams and developed user-focused visuals and dashboards which improved customer foot traffic of website.     
-     - Project: “Artificial Intelligence on Rural”, did data mining and data management of 40 years of demographics data size 100k using Python, created visuals for country-wise model dashboard using Tableau categorically (health, transport, water and agriculture).
+     - Improved customer foot traffic of website: Led IT projects of 24 diverse people teams, collaborated with UX, Marketing and Data Science teams, requirement gathering and developed data pipeline, user-focused visuals and dashboards. 
+     - Project: “Artificial Intelligence on Rural”, did data mining and data integration of 40 years of demographics data size 100k using Python on AWS, created visuals for country-wise model dashboard using Tableau categorically (health, food, water, etc.)
      - Achievement: Featured in PWG Women Leadership Newsletter 2020. 
      - Achievement: Titled as “Young Leaders Shadow Board of Directors, under 25” program under ages of Harvard Business Review 
      - Achievement: Nominated and attended the United Nations Global Compact Summit 2020
@@ -56,10 +70,10 @@
      
 # Experience template
 - layout: left
-  company: KPMG 
+  company: KPMG
 
   
-  job_title: Data Analyst consultant intern 
+  job_title: Data Analyst Consultant Intern 
   dates: May 2020- June 2020
   #quote: >
   # Short description of the company (optional)
@@ -67,13 +81,12 @@
   
      **Responsibilities**
      
-     - Performed data quality assurance, modeled 360,000 accounting data by defining schemas using SQL, assessed data quality as per data governance, created dashboard for stakeholder and documented business improvement strategies using PowerPoint.
-# Experience template
+     - Performed data wrangling, data modeled 360,000 accounting data by defining schemas using SQL, assessed data quality as per data governance, created dashboard using Tableau and documented business improvement strategies using PowerPoint presentation to the stakeholders.# Experience template
 - layout: left
   company: Hash Analytics  
 
   
-  job_title: Data Analyst intern
+  job_title: Data Analyst Intern
   dates: April 2020- June 2020
   #quote: >
   # Short description of the company (optional)
@@ -96,7 +109,7 @@
   
      **Responsibilities**
      
-     - Data mining, data modeling, ETL into visuals using Tableau, designed the database and reported the KPIs in the data storytelling.     
+     - Built and designed the database by data extraction using ETL with the help of Advance Microsoft funtions, data modeling, data mining followed by data visualization using Tableau,  and reported the KPIs in the PowerPoint Presenation as a data storytelling for the team.     
 # Experience template
 - layout: left
   company: IBM 
@@ -111,7 +124,7 @@
      **Responsibilities**
      
      - Software development in Python for Insurance industry clients.
-     - Developed a model after analysis of system’s workload, reported the behavior of mainframe system and workloads interactions. 
+     - Developed a model after analysis of system’s workload, reported the behavior of mainframe system and workloads interactions and collaborated with SMEs of Performance and Capacity Management Team. 
      - Gather the data, cleaned it, and the predicted the time for planning a schedule for upgrading your z Systems and capacity planning.  
      - Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
      - Achievement: Certified as Big Data Expert
