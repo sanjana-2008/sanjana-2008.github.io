@@ -35,11 +35,35 @@
   # Project template
 
 - layout: top-middle
-  name: System metrics analysis | February 2019
+  name: Social Network Analysis of LinkedIn   | August 2019
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-    Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+    Developed a visual live graph network after analyzing the total number of connections in LinkedIn as per their demographics.
+    
+  description: | # this will include new lines to allow paragraphs
+  
+  # Project template
+
+- layout: top-middle
+  name: Voice Translator Bot | August 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Developed a bot which translate between English and different languages. It also converts speech into text
+    
+  description: | # this will include new lines to allow paragraphs
+  
+  # Project template
+
+- layout: top-middle
+  name: United Airlines - System Analysis | January 2020 - March 2020
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Analyzing the system and system design of United Airlines and its functionality and adding new functionalities to the system by designing strategic design patterns, Data Flow diagrams, ER diagrams using Microsoft Visio.
     
   description: | # this will include new lines to allow paragraphs
