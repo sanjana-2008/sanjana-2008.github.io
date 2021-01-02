@@ -3,3 +3,132 @@
   company: Illinois Institute of Technology
   link: https://www.iit.edu/
   job_title: Graduate Teaching Assistant
+# Experience template
+- layout: left
+  company: DePaul University 
+  job_title: Data Analyst
+  dates:  October 2020- Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+   
+       - Achievement: Producer of Optimizing Digital Innovation (ODI) Conference 2020 with speakers from Fortune 500 companies.
+
+
+# Experience template
+- layout: left
+  company: ThinkChicago2020
+  job_title: Group Project Lead Participant
+  dates: October 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+       
+        -  I gained experience by working in a team with the country's most talented students. Together, we worked on a civic tech challenge by giving our best ideas on how to improve efficiency and lower commute times by prompting public transit and high capacity models.
+        - Achievement: I was selected as 1 of the 200 top college students from across the U.S from STEM to participate in the ThinkChicago Ideas Week.
+        - Achievement: Got featured in the official ThinkChicago Chicago Ideas 2020 resume book.
+
+
+
+# Experience template
+- layout: left
+  company: Project Work Groups 
+
+  
+  job_title: Data Scientist 
+  dates: June 2020- August 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Led IT projects of 24 diverse people teams, collaborated with UX, Marketing and Data Science teams and developed user-focused visuals and dashboards which improved customer foot traffic of website.     
+     - Project: “Artificial Intelligence on Rural”, did data mining and data management of 40 years of demographics data size 100k using Python, created visuals for country-wise model dashboard using Tableau categorically (health, transport, water and agriculture).
+     - Achievement: Featured in PWG Women Leadership Newsletter 2020. 
+     - Achievement: Titled as “Young Leaders Shadow Board of Directors, under 25” program under ages of Harvard Business Review 
+     - Achievement: Nominated and attended the United Nations Global Compact Summit 2020
+     - Achievement: Received weekly best performance award badges from Manager.
+     
+# Experience template
+- layout: left
+  company: KPMG 
+
+  
+  job_title: Data Analyst consultant intern 
+  dates: May 2020- June 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Performed data quality assurance, modeled 360,000 accounting data by defining schemas using SQL, assessed data quality as per data governance, created dashboard for stakeholder and documented business improvement strategies using PowerPoint.
+# Experience template
+- layout: left
+  company: Hash Analytics  
+
+  
+  job_title: Data Analyst intern
+  dates: April 2020- June 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Performed qualitative and quantitative analysis using Numpy, Panda, A/B hypothesis testing to present the KPIs on a complex data sets, followed by data visualization using Matplotlib and Tableau.
+     - Tableau portfolio: https://public.tableau.com/profile/  sanjana2505#!/
+# Experience template
+- layout: left
+  company: Embassy of India Student Hub 
+
+  
+  job_title: Volunteer 
+  dates: April 2020- August 2020
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Data mining, data modeling, ETL into visuals using Tableau, designed the database and reported the KPIs in the data storytelling.     
+# Experience template
+- layout: left
+  company: IBM 
+
+  
+  job_title: Service Delivery Specialist 
+  dates: January 2018 - June 2019
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     - Software development in Python for Insurance industry clients.
+     - Developed a model after analysis of system’s workload, reported the behavior of mainframe system and workloads interactions. 
+     - Gather the data, cleaned it, and the predicted the time for planning a schedule for upgrading your z Systems and capacity planning.  
+     - Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+     - Achievement: Certified as Big Data Expert
+     - Achievement: Winner of IBM Master the Mainframe competition played at global level.
+ 
+     
+# Experience template
+- layout: left
+  company: TATA Tele Services
+
+  
+  job_title: Java Intern
+  dates: June 2016 - August 2016
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+     **Responsibilities**
+     
+     -  Developed “Authentication Based Face Recognition” using Eigenfaces algorithm on Java Server Pages for image processing.
