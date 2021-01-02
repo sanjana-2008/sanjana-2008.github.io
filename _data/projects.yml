@@ -1,78 +1,11 @@
 # Project template
 
 - layout: top-middle
-  name: Recipe Predictor using Deep Convolutional Neural Networks | November 2020 - December 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-  - Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
-
-- layout: top-middle
-  name: Titanic Survival Predictor | April 2020 - June 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-     
-  
-  
-      
-      
-       
-     - Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
-     - layout: top-middle
-  name: Time Series Decomposition of Supermarket | August 2018 - November 2018
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-     
-  
-      
-      
-       
-       - Performed a time series decomposition of retail store and customer data, analyze customer behavior and trends, accessed the Hadoop data in JSON, did data profiling using SPSS, created a dashboard using Elastic Search, Logstash and Kibana (ELK) and a report with KPIs for marketing strategies which increased the customer churn rate by 23%.
-- layout: top-middle
-  name: System metrics analysis   | February 2019
+  name: Customer Behavioral Analytics for Retail Store | Feb 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     
-  
-       
-       - Conducted system metrics analysis by data mining, transformed over 2 Million of mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
-
-- layout: top-middle
-  name: Housing Market Predictor model   | January 2019 - March 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
+    A customer behavior analysis is a qualitative and quantitative observation of how customers interact with your company. Customers are first segmented into groups based on common grounds and then observed at different stages to analyze how the personas interact with your company.
     
-       
-       - Developed a system which used the California Census data 1990 to predict house sale prices in the Bay area with respect to proximity to the ocean by using Machine Learning algorithm, Linear Regression, Decision tree algorithms and Ridge Regression in Python using Numpy and Matplotlib for data visualization according to the population, dimension of houses, etc
-
-- layout: top-middle
-  name: Social Network Analysis of LinkedIn   | April 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-       
-       - Developed a visual live graph network after analyzing the total number of connections in LinkedIn as per their demographics.
-       
- - layout: top-middle
-  name: Voice Translator Bot    | March 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-       
-       - Developed a bot which translate between English and different languages. It also converts speech into text.
-       - It accepts voice commands for the following like Swap language between languages: ‘switch my language’.
-      
-  - layout: top-middle
-  name: United Airlines - System Analysis    | January 2020 - March 2020
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    
-       
-       - Analyzing the system and system design of United Airlines and its functionality and adding new functionalities to the system by designing strategic design patterns, Data Flow diagrams, ER diagrams using Microsoft Visio.
+  description: | # this will include new lines to allow paragraphs
