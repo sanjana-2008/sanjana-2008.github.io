@@ -5,12 +5,8 @@
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    
-      
-      
-      
-       
-- Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
+  - Developing automated recognition of a photographed cooking dish and the subsequent output of the appropriate recipe by performing data analysis, visualization, split data (train, valid, test) using Feature Extraction and training pre-trained CNN.
+
 - layout: top-middle
   name: Titanic Survival Predictor | April 2020 - June 2020
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
