@@ -20,3 +20,26 @@
     Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
     
   description: | # this will include new lines to allow paragraphs
+  # Project template
+
+- layout: top-middle
+  name: Time Series Decomposition of Supermarket | August 2019 - November 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Increased the customer churn rate by 23% : Performed a time series forecasting of retail store and customer data, analyze customer behavior and trends, accessed the Hadoop data in JSON, did data profiling using SPSS, created a dashboard using Elastic Search, Logstash and Kibana (ELK) algorithm and a report with KPIs for marketing strategies.
+    
+  description: | # this will include new lines to allow paragraphs
+  
+  # Project template
+
+- layout: top-middle
+  name: System metrics analysis | February 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+    
+  description: | # this will include new lines to allow paragraphs
