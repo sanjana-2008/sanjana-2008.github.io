@@ -20,7 +20,7 @@
     Performed exploratory and statistical analysis on Titanic datasets, and predicted 32% survival chances of passengers and crew on the ship using One Hot Encoding based on categories: gender, class, fares, age using scikit Machine Learning to do Logistics Regression, K-Nearest Neighbors and Decision Tree for training and validating data splitting and visualized the confusion matrix.
     
   description: | # this will include new lines to allow paragraphs
-   # Project template
+  # Project template
 
 - layout: top-middle
   name: United Airlines - System Analysis | January 2020 - March 2020
@@ -66,7 +66,7 @@
     Developed a bot which translate between English and different languages. It also converts speech into text
     
   description: | # this will include new lines to allow paragraphs
-    # Project template
+  # Project template
 
 - layout: top-middle
   name: System metrics analysis | February 2019
