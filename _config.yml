@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
    - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
    - **Programming** **Languages**: Python, C++, Java, SQL
-   - **Data Visualization**: Excel, Tableau, PowerBI, Alteryx
+   - **Data Visualization**: Excel, Tableau, PowerBI.
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP, Pivot Table, Macros
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
    - **ETL Tools**: MS SSIS, IBM Infosphere Information Server
@@ -61,16 +61,23 @@ more_content: | # this will include new lines to allow paragraphs
    - **Machine Learning Algorithms**: Decision Trees (Random Forests), Clustering (KNN, K-Means), Classification (Naïve Bayes, SVM), Unsupervised learning (PCA), Time Series Analysis, Image Processing, Pattern Recognition, Data Extraction, Business Intelligence (BI)
 
 # Others Section
-others_title: Achievements & Accomplishments
+others_title: Certificates and Leadership
 others_content: | # this will include new lines to allow paragraphs
+   ** Leadership:**
    - President of DePaul Information Systems Organization (2020 - 2021)
-   - Ex-President of Google Developer Club, DePaul University.
-    
-# Others Section
-others_title: Certificates
-others_content: | # this will include new lines to allow paragraphs
-   - President of DePaul Information Systems Organization (2020 - 2021)
-   - Ex-President of Google Developer Club, DePaul University.
+   - Ex-President of Google Developer Club, DePaul University
+   - Social Media Chair of HerCDM, DePaul Uiversity( 2020 - 2021)
+   - Global Peer Mentor(2020)
+   ** Certificates:**
+   - Google Analytics Beginner.
+   - Google Analytics Advance.
+   - AWS certified Data Analytics fundamentals. 
+   - SAP Data Intelligence for Enterprise AI.
+   - AWS Cloud Practitioner Essentials. 
+   - IBM Professional Certificate of Data Science.
+   - Lean Six Sigma White Belt 
+   - Project Management Essentials 
+
    
              
 
