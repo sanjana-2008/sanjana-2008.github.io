@@ -53,11 +53,13 @@ more_content: | # this will include new lines to allow paragraphs
    - **Programming** **Languages**: Python, C++, Java, SQL
    - **Data Visualization**: Excel, Tableau, PowerBI, Alteryx
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP, Pivot Table, Macros
-   - **Data Analytics**: Excel, R, SQL, Python
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
    - **ETL Tools**: MS SSIS, IBM Infosphere Information Server
    - **Web Analytics**: Google Analytics
-   
+   - **Statistical and Analytics techniques**: Advanced SQL queries, Regression and Tree-Based Modeling, Hypothesis Testing, A/B Testing, Clustering, Variable Selection, Data Wrangling, and Data Visualization.
+   - **Packages**: TensorFlow, PyTorch, Keras, OpenCV, Numpy
+   - **Machine Learning Algorithms**: Decision Trees (Random Forests), Clustering (KNN, K-Means), Classification (Naïve Bayes, SVM), Unsupervised learning (PCA), Time Series Analysis, Image Processing, Pattern Recognition, Data Extraction, Business Intelligence (BI)
+
 # Others Section
 # others_title: Achievements & Accomplishments
 others_content: | # this will include new lines to allow paragraphs
