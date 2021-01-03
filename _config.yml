@@ -26,7 +26,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Currently pursuing Master of Science in Computer Information Systems (Data Analytics) from DePaul Univetrsity, Chicago and will be graduating in June 2021.
 
   - I am an experienced professional with having 3.5+ years in software development and Data Analytics. Skilled in Python, SQL, Tableau, Machine Learning, and Databases. 
-  - I am looking for a Full-time Data Analyst / Data Scientist / Business Intelligence opportunity.
+  - I am looking for a Full-time Data Analyst / Data Scientist / Business Intelligence opportunity starting May 2021.
   
   Expertise:
   - Strategy Analysis
@@ -34,36 +34,37 @@ about_content: | # this will include new lines to allow paragraphs
   - Customer Segmentation
   - Time Series Forecasting
   - Predictive Modeling
-  - Optimization
+  - System Analysis
   
   Strength:
   - Ability to solve complex problems and work with multiple data-sets by leveraging relevant tools.
   - An effective communicator with strong interpersonal skills
   - Collaborate with stakeholders and interact cross-functionally to conduct end-to-end analysis.
   - Translate and communicate insights as concrete and actionable recommendations for the business.
-  
+  - LinkedIn: https://www.linkedin.com/in/sanjana-kulshrestha-2008/
+  - Medium: https://medium.com/@sanjana.kul2008
+
   Scroll down to learn more about me!
 
 
 
 more_content: | # this will include new lines to allow paragraphs
    - **Data** **Management**: Database Design and Management, Data Analysis, Pattern and Trend Identification, Visualization and Data Insights, Data Warehousing, Data Mining, Regression Analysis, Data Modeling, Predictive Analytics
-   - **Programming** **Languages**: C,C++,Java, SQL
-   - **Web Technology**: HTML5, CSS, JavaScript
-   - **Data Visualization**: Excel, Tableau, PowerBI, Pentaho CDE
-   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP
-   - **Data Analytics**: Excel, R, SQL, Python, Saiku Analytics
+   - **Programming** **Languages**: Python, C++, Java, SQL
+   - **Data Visualization**: Excel, Tableau, PowerBI, Alteryx
+   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP, Pivot Table, Macros
+   - **Data Analytics**: Excel, R, SQL, Python
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL
-   - **ETL Tools**: MS SSIS, Pentaho
+   - **ETL Tools**: MS SSIS, IBM Infosphere Information Server
    - **Web Analytics**: Google Analytics
    
 # Others Section
 # others_title: Achievements & Accomplishments
 others_content: | # this will include new lines to allow paragraphs
-   - Recipient of “Tech Edge Scholarship”, Illinois Institute of Technology, Chicago
-   - Edx HarvardX Data Science: R Basics Certification
-   - Interests: Reading Books, Collecting Stamps
-   - Volunteer: work as a Community Desk Assistant at IIT dorms.
+   - President of DePaul Information Systems Organization (2020 - 2021)
+   - Ex-President of Google Developer Club, DePaul University.
+    
+   
              
 
 
