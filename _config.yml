@@ -63,12 +63,12 @@ more_content: | # this will include new lines to allow paragraphs
 # Others Section
 others_title: Certificates and Leadership
 others_content: | # this will include new lines to allow paragraphs
-    ** Leadership:**
+   - ** Leadership:**
    - President of DePaul Information Systems Organization (2020 - 2021)
    - Ex-President of Google Developer Club, DePaul University
    - Social Media Chair of HerCDM, DePaul Uiversity( 2020 - 2021)
    - Global Peer Mentor(2020)
-    ** Certificates:**
+   - ** Certificates:**
    - Google Analytics Beginner.
    - Google Analytics Advance.
    - AWS certified Data Analytics fundamentals. 
