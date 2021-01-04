@@ -31,6 +31,17 @@
     Analyzing the system and system design of United Airlines and its functionality and adding new functionalities to the system by designing strategic design patterns, Data Flow diagrams, ER diagrams using Microsoft Visio.
     
   description: | # this will include new lines to allow paragraphs
+  # Project template
+
+- layout: top-middle
+  name: Housing Market Predictor model | December 2019
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    Developed a system which used the California Census data 1990 to predict house sale prices in the Bay area with respect to proximity to the ocean by using Machine Learning algorithm, Linear Regression, Decision tree algorithms and Ridge Regression in Python using Numpy and Matplotlib for data visualization according to the population, dimension of houses, etc.
+    
+  description: | # this will include new lines to allow paragraphs
  # Project template
 
 - layout: top-middle
