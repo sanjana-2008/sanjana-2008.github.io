@@ -1,8 +1,18 @@
 # Experience template
 - layout: left
+  company: UnitedHealth Group 
+  job_title: Engineering Specialist 
+  dates:  July 2021 - Present
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs.
+       
+       
+# Experience template
+- layout: left
   company: Microsoft Corporation 
   job_title: Microsoft Learn Student Ambassadors 
-  dates:  January 2021- Present
+  dates:  January 2021- June 2021
   #quote: >
   # Short description of the company (optional)
 
@@ -11,7 +21,7 @@
 - layout: left
   company: DePaul University 
   job_title: Program Coordinator
-  dates:  October 2019- Present
+  dates:  October 2019- June 2021
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
@@ -30,7 +40,7 @@
 - layout: left
   company: DePaul University 
   job_title: Data Analyst
-  dates:  October 2020- Present
+  dates:  October 2020- Dec 2020
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
@@ -62,7 +72,7 @@
   company: Project Work Groups 
 
   
-  job_title: Data Scientist Intern
+  job_title: Data Analyst Intern
   dates: June 2020- August 2020
   #quote: >
   # Short description of the company (optional)
@@ -135,7 +145,7 @@
      
      - Developed a model after analysis of system’s workload, reported the behavior of mainframe system and workloads interactions and collaborated with SMEs of Performance and Capacity Management Team. 
      - Gather the data, cleaned it, and the predicted the time for planning a schedule for upgrading your z Systems and capacity planning.  
-     - Reduced utilization rate by 17% : Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
+     - Conducted system metrics analysis by data mining, transformed over 2 Million of raw mainframe utilization data through ETL using SQL, VBA and developed a data model, evaluated it for optimization of data.
      - Achievement: Certified as Big Data Expert.
      - Achievement: Winner of IBM Master the Mainframe competition played at global level.
  
